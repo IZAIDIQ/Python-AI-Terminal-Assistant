@@ -10,6 +10,6 @@ An interactive Command-Line Interface (CLI) application built with Python to int
 ## 🛠️ Prerequisites
 - Python 3.10+
 - `requests` library
-
+js for 2 dayys
 ```bash
 pip install requests 
